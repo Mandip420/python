@@ -5,4 +5,4 @@ def pythagorous(a,b=5):
     return c
 b=int(input("Enter the value of B\t"))
 d=pythagorous(a,b)
-print(d)
+print(d);

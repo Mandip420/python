@@ -9,5 +9,5 @@ class perform:
     
 if __name__ == "__main__":  
    a= perform()
-   a.addition()
+   a.addition();
    

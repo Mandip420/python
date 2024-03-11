@@ -6,4 +6,4 @@ def odd(a=50):
     return odds
 b=int(input("Enter the range\t"))     
 d=odd(b)
-print(d)
+print(d);

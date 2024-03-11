@@ -5,4 +5,4 @@ def check(a,b,c):
     return formula
 c=int(input("Enter the value of C\t"))
 d=check(c=3,a=3,b=5)
-print("The formula output = ",d)
+print("The formula output = ",d);

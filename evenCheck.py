@@ -19,4 +19,4 @@ def even():
     return sum 
 # ti=[1,2,3,4,5,6,7,8,9]    
 d=even()
-print(d)
+print(d);

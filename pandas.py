@@ -15,4 +15,4 @@ elif(timestamp>9 and timestamp<=13):
 elif(timestamp>13 and timestamp<=18):
   print("Gud Evening")
 elif(timestamp>18 and timestamp<=24):
-  print("Gud night")
+  print("Gud night");

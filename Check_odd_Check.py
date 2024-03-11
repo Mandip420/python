@@ -11,4 +11,4 @@ if odd() is False:
    print(d , "It is even")
 # elif d is True:
 elif odd() is True:
-    print(d, "It is odd")
+    print(d, "It is odd");

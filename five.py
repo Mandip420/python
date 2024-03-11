@@ -16,6 +16,6 @@ if a.can_vote()==True:
     print("You are eligible for voting")
 else:
     print(a.can_vote())
-    print("You can't vote you are not eligible for voting")
+    print("You can't vote you are not eligible for voting");
     
 

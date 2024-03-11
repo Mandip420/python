@@ -18,5 +18,5 @@ def grade_calculator():
 d=grade_calculator()
 print("Your grade is ",d)
 if d=='F':
-    print("You are fail")
+    print("You are fail");
   

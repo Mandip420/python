@@ -14,7 +14,7 @@ class bank_ATM:
         
     
     def widral(self):
-        amount=float(input("Enter the widral amount\t"))
+        amount=float(input("Enter the widral amount\t"));
         if self.balance > amount:
             print("Widral successfull")
             self.balance-=amount

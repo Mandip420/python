@@ -5,4 +5,4 @@ def formula(a,b):
     formula=a**2+b**2
     return formula
 d=formula(3,7)
-print(d)
+print(d);

@@ -18,4 +18,4 @@ class character:
         
 if __name__ == "__main__":  
     player=character(choose_character=None)
-    player.get_power()
+    player.get_power();

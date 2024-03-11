@@ -4,4 +4,4 @@ def area_of_triangle(length,breath):
 a=int(input("Enter the value of A\n"))
 b=int(input("Enter the value of B\n"))
 d=area_of_triangle(a,b)
-print("The area of Triangle = ",d)
+print("The area of Triangle = ",d);

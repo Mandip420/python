@@ -8,5 +8,5 @@ d=check_eligibility(age)
 if d==True:
     print(d, "You are eligible for registration ")
 else:
-    print(d, "You are not eligible for registration ")
+    print(d, "You are not eligible for registration ");
     

@@ -24,7 +24,7 @@ class Subclass(geometric_shape):
     
     def Area_of_Circle(self):
         A=2*self.pi*self.r**2
-        print("The area of Circle = ",A)
+        print("The area of Circle = ",A);
     
     def Square_area(self):
         A=self.l*self.b

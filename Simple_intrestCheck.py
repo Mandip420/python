@@ -4,4 +4,4 @@ def simple_intrest(P,T,R):
     return SI
 T=float(input("Enter the time period\n"))
 d=simple_intrest(P,T,R=1000)
-print("The simple intrest =\t",d)
+print("The simple intrest =\t",d);
